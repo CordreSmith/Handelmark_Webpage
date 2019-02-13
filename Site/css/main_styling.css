@@ -1,0 +1,47 @@
+body {
+    padding-top: 70px; 
+    font-family: "Comic Sans MS";
+	background-color: #b9fcc5;
+}
+
+.border
+{
+	border:5px solid #444746;
+	margin-right: 50px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#shopblock
+{
+	text-align: center;
+	
+}
+
+.thumbnail
+{
+	background-color:  #292d2a ;
+	border-radius: 25px;
+}
+
+.h4
+{
+	margin: auto;
+}
+
+#shopbutton
+{
+	border: none;
+	border-radius: 25px;
+	background-color:  #292d2a ;
+	color :  #888d89  ;
+	transition-duration: 0.4s;
+}
+
+#shopbutton:hover
+{
+	background-color:   #58d68d  ;
+    color: #888d89;
+}

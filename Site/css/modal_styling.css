@@ -1,0 +1,51 @@
+.input-group-addon {
+    min-width:200px;
+    text-align:center;
+}
+
+.modal{
+	padding-top: 5% ; 
+	background-color: rgb(0,0,0,0.4);
+}
+
+.modal-content{
+	background-color:  #292d2a ;
+}
+
+.modal-title
+{
+	color :  #888d89  ;
+}
+
+.modal-footer > button{
+	background-color: #292d2a;
+	border: none;
+    color: #888d89;
+    transition-duration: 0.4s;
+}
+
+.modal-footer > input{
+	background-color: blue;
+	border: none;
+    color: #888d89;
+    transition-duration: 0.4s;
+}
+
+.modal-footer > button:hover{
+	background-color:   #58d68d  ;
+}
+
+.modal-footer > input:hover{
+	background-color:   #58d68d  ;
+}
+
+#closex
+{
+	color: white;
+}
+
+#imgupload
+{
+	background-color: white;
+	width: 100%;
+}

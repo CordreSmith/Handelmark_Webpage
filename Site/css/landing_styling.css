@@ -1,0 +1,13 @@
+body {
+	font-family: "Comic Sans MS";
+	background-color: #b9fcc5;
+	padding-top: 70px;
+}
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
